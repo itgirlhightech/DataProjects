@@ -27,3 +27,10 @@ O projeto **AI Job Impact** é um dashboard interativo que analisa o impacto da 
 
 ---
 
+## Pyhton Cripto 
+
+**Análise de Criptomoedas com Python e Power BI**
+
+Projeto desenvolvido em Python para coletar e processar dados de criptomoedas, que depois são visualizados em um dashboard interativo no Power BI. Permite explorar tendências de preços, correlações entre moedas e gerar insights para decisões estratégicas no mercado digital.
+
+![n3](./pythoncripto/img/Captura%20de%20tela%202025-10-25%20165445.png) 
