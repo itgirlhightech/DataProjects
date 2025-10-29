@@ -34,3 +34,18 @@ O projeto **AI Job Impact** é um dashboard interativo que analisa o impacto da 
 Projeto desenvolvido em Python para coletar e processar dados de criptomoedas, que depois são visualizados em um dashboard interativo no Power BI. Permite explorar tendências de preços, correlações entre moedas e gerar insights para decisões estratégicas no mercado digital.
 
 ![n3](./pythoncripto/img/Captura%20de%20tela%202025-10-25%20165445.png) 
+
+---
+
+##  MusicData Dashboard
+
+Dashboard criado no **Power BI** para analisar músicas com base em métricas como dançabilidade, energia, valência e acústica.
+Os gráficos mostram a média por artista e faixa, permitindo comparar estilos e identificar músicas mais animadas ou calmas.
+
+**Ferramentas:** Power BI, Python, CSV
+**Principais gráficos:** barras, treemap, dispersão, rosca e filtro por artista.
+
+![n4](./MusicRecommender/img/Captura%20de%20tela%202025-10-29%20154636.png) 
+
+
+
